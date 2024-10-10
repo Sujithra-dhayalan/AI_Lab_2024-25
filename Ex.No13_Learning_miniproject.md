@@ -152,7 +152,7 @@ print(classification_report(y_test, y_pred))
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/9258bf8d-50fb-46b8-adb2-7ee842402466)
+![image](https://github.com/user-attachments/assets/9258bf8d-50fb-46b8-adb2-7ee842402466) /n
 ![image](https://github.com/user-attachments/assets/fb991e4b-d498-4270-a34c-e6334995765f)
 ![image](https://github.com/user-attachments/assets/5a5a9627-e7a9-4351-b419-76a91f4b404b)
 ![image](https://github.com/user-attachments/assets/d3f97b28-8a86-480c-8846-04900898895d)
