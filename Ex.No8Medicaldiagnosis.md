@@ -1,6 +1,6 @@
 # Ex.No: 8  Logic Programming –  Medical Diagnosis Expert System
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 14-10-2024                                                                         
+### REGISTER NUMBER : 212222220052
 ### AIM: 
 Write a Prolog program to build a medical Diagnosis Expert System.
 ###  Algorithm:
@@ -15,17 +15,42 @@ Write a Prolog program to build a medical Diagnosis Expert System.
 
 ### Program:
 
-
-
-
-
-
-
-
-
+```
+hypothesis(Patient,german_measles) :-
+symptom(Patient,fever),
+symptom(Patient,headache),
+symptom(Patient,runny_nose),
+symptom(Patient,rash).
+hypothesis(Patient,flu) :-
+symptom(Patient,fever),
+symptom(Patient,headache),
+symptom(Patient,body_ache),
+symptom(Patient,conjunctivitis),
+symptom(Patient,chills),
+symptom(Patient,sore_throat),
+symptom(Patient,runny_nose),
+symptom(Patient,cough).
+hypothesis(Patient,common_cold) :-
+symptom(Patient,headache),
+symptom(Patient,sneezing),
+symptom(Patient,sore_throat).
+hypothesis(Patient,chicken_pox) :-
+symptom(Patient,fever),
+symptom(Patient,chills),
+symptom(Patient,body_ache),
+symptom(Patient,rash).
+hypothesis(Patient,measles) :-
+symptom(Patient,cough),
+symptom(Patient,sneezing),
+symptom(Patient,runny_nose).
+symptom(raju,headache).
+symptom(raju,sneezing).
+symptom(raju,sore_throat).
+```
 
 
 ### Output:
+![WhatsApp Image 2024-03-23 at 15 40 34_b0e822bb](https://github.com/snoopydj911/AI_Lab_2023-24/assets/122033587/9115a0b2-f9d7-485c-826d-fc896bbe9f7e)
 
 
 
