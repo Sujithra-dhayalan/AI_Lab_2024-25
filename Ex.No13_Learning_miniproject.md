@@ -1,8 +1,8 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
-### DATE: 10-10-2024                                                                           
+# Ex.No: Machine Learning - MiniProject  
+### DATE: 24.10.2024                                                                           
 ### REGISTER NUMBER : 212222220052
 ### AIM: 
-To write a program to train the RandomForest classifier for Car Evalution
+To write a program to train the RandomForest classifier for Car Safety Evalution
 ###  Algorithm:
 ## STEP 1: Import the necessary libraries 
 ## STEP 2: Import the Dataset
