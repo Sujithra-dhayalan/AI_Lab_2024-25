@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
 ### Output:
 
-![image](https://github.com/santhoshkumar24263/AI_Lab_2023-24/assets/127171952/08ce753c-b552-46a0-a474-d77c847cda7e)
+![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/87972090-499a-41c5-9014-38b4ed77e08c)
 
 
 ### Result:
